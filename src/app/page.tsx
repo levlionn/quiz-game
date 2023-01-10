@@ -1,10 +1,10 @@
-import Card from "../components/Card";
+import GameField from "../components/GameField";
 
 export default function Page() {
   return (
     <>
-      <h1>Helllo, Next.js!</h1>
-      <Card />
+      <h1>The Fantastical Quiz Game</h1>
+      <GameField />
     </>
   );
 }
